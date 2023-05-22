@@ -3,9 +3,17 @@ layout: default
 title: Nithin Janardhanan
 ---
 
-# Nithin Janardhanan
+<div style="overflow: hidden; background-color: #333;">
+    <div style="float: left;">
+        <a href="index.md" style="display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 24px; font-family: 'Arial', sans-serif; font-weight: bold;">Nithin Janardhanan</a>
+    </div>
+    <div style="float: right;">
+        <a href="pages/experience.md" style="display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 18px; font-family: 'Arial', sans-serif;">Experiences</a>
+        <a href="pages/projects.md" style="display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 18px; font-family: 'Arial', sans-serif;">Projects</a>
+    </div>
+</div>
 
-![Profile Image](/assets/profile-image.jpg)  <!-- Add your profile image here -->
+ 
 
 ## Contact
 - Phone: (+31) XXXXXXXX
