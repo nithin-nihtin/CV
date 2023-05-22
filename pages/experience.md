@@ -75,3 +75,7 @@ title: Experience
 
 For more detailed information about my project experience, visit [this page](projects.md).
 
+## Social
+- LinkedIn: [Profile](https://www.linkedin.com/in/janardhanannithin/)
+- Blogs: [www.nithinjanardhanan.com](http://www.nithinjanardhanan.com)
+
