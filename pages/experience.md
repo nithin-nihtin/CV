@@ -3,7 +3,13 @@ layout: default
 title: Experience
 ---
 
-# Work Experience
+<div style="overflow: hidden; background-color: #333;">
+    <a href="pages/experience.html" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 24px;">Work Experience</a>
+    <div style="float: right;">
+        <a href="index.html" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 18px;">Nithin Janardhanan</a>
+        <a href="pages/projects.html" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 18px;">Projects</a>
+    </div>
+</div>
 
 ## Amazon Web Services
 **Senior Enterprise Account Engineer** [08/2022 – Current]
