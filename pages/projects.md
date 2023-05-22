@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: My Projects
-permalink: pages/projects.md
 ---
 
 # My Projects
