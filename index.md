@@ -11,16 +11,6 @@ title: Nithin Janardhanan
     </div>
 </div>
 
-
- 
-
-## Contact
-- Phone: (+31) XXXXXXXX
-- Email: XXXXXXXX@outlook.com
-- Location: Utrecht, Netherlands
-- LinkedIn: [Profile](https://www.linkedin.com/in/janardhanannithin/)
-- Website: [www.nithinjanardhanan.com](http://www.nithinjanardhanan.com)
-
 ## About Me
 
 Technologist and leader with 15+ years of experience in leading large-scale cloud transformations and implementing futuristic solutions/products in Fortune 100 companies. 
@@ -70,4 +60,8 @@ For more detailed information about my work experience, visit [this page](pages/
 - TOGAF 9.1
 - IBM Architectural Thinking
 - AWS Solutions Architect (Associate)
+
+## Social
+- LinkedIn: [Profile](https://www.linkedin.com/in/janardhanannithin/)
+- Website: [www.nithinjanardhanan.com](http://www.nithinjanardhanan.com)
 
