@@ -8,8 +8,8 @@ title: Nithin Janardhanan
 ![Profile Image](/assets/profile-image.jpg)  <!-- Add your profile image here -->
 
 ## Contact
-- Phone: (+31) 0681086657
-- Email: nithinjsc@outlook.com
+- Phone: (+31) XXXXXXXX
+- Email: XXXXXXXX@outlook.com
 - Location: Utrecht, Netherlands
 - LinkedIn: [Profile](https://www.linkedin.com/in/janardhanannithin/)
 - Website: [www.nithinjanardhanan.com](http://www.nithinjanardhanan.com)
