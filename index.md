@@ -6,8 +6,8 @@ title: Nithin Janardhanan
 <div style="overflow: hidden; background-color: #333;">
     <a href="index.md" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 24px;">Nithin Janardhanan</a>
     <div style="float: right;">
-        <a href="pages/experience.md" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 18px;">Experiences</a>
-        <a href="pages/projects.md" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 18px;">Projects</a>
+        <a href="pages/experience.html" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 18px;">Experiences</a>
+        <a href="pages/projects.html" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 18px;">Projects</a>
     </div>
 </div>
 
