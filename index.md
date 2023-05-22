@@ -63,5 +63,5 @@ For more detailed information about my work experience, visit [this page](pages/
 
 ## Social
 - LinkedIn: [Profile](https://www.linkedin.com/in/janardhanannithin/)
-- Website: [www.nithinjanardhanan.com](http://www.nithinjanardhanan.com)
+- Blogs: [www.nithinjanardhanan.com](http://www.nithinjanardhanan.com)
 
