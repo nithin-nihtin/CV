@@ -47,7 +47,7 @@ Microservice architecture | SOA | REST API | C# | Cloud Architecture | Agile (Sc
 - **Premier Support Engineer**, Microsoft India Pvt Ltd [2010 – 2012]
 - **Assistant Engineer**, Infosys Technologies [2007 – 2009]
 
-For more detailed information about my work experience, visit [this page](/experience).
+For more detailed information about my work experience, visit [this page](cv/experience).
 
 ## Conferences & Seminars
 - SHELL APD SUMMIT, Bangalore, 2019
