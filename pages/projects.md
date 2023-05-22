@@ -89,3 +89,7 @@ title: My Projects
 **Role:** Infrastructure Architect  
 **Type:** Technology Architecture  
 **Description:** Designed and implemented the infrastructure for a production video rendering solution.
+
+## Social
+- LinkedIn: [Profile](https://www.linkedin.com/in/janardhanannithin/)
+- Blogs: [www.nithinjanardhanan.com](http://www.nithinjanardhanan.com)
