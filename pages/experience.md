@@ -67,4 +67,5 @@ title: Experience
 - Ensured data accuracy and integrity and optimized report generation.
 - Managed technical implementations and presented solutions to clients.
 
-For more detailed information about my project experience, visit [this page](/projects.md).
+For more detailed information about my project experience, visit [this page](pages/projects.md).
+
